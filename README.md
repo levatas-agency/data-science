@@ -58,3 +58,4 @@ Assuming you are starting from scratch, here is a short list of resources that w
 * [Michael Littman](https://twitter.com/mlittmancs) — Professor at Brown University. Works mainly in Reinforcement Learning. 
 * [Oriol Vinyals](https://twitter.com/OriolVinyalsML) - Research Scientist, Machine Learning/Deep Learning/AI, Google DeepMind. Previously worked on Google Brain.
 * [Soumith Chintala](https://twitter.com/soumithchintala) — Works at Facebook AI Research. Created PyTorch. Co-authored WGAN and DCGAN research papers.
+---
